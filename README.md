@@ -334,6 +334,11 @@ Polecam więc wybrać Streetrat albo Edgerunner.
 
 Postać należy stworzyć w sekcji dziennika gracza na naszej kampanii w Roll20.
 
+Podczas tworzenie pamiętajcie o tych 3 rzeczach:
+- Styl ponad treścią.
+- Nastawienie jest wszystkim
+- Żyj szybko, umrzyj w chwale
+
 Miłego tworzenia :D
 
 
